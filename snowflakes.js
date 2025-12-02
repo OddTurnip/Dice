@@ -3,7 +3,7 @@
  * Creates animated seasonal effects for different themes
  */
 
-import { getAnimationsEnabled } from './ThemeManager.js';
+import { getAnimationsEnabled } from './thememanager.js';
 
 /**
  * Creates seasonal effects based on current theme

@@ -14,7 +14,7 @@ import {
     getHistoryCount,
     removeHistoryEntry,
     getHistoryEntries
-} from '../HistoryLog.js';
+} from '../historylog.js';
 
 describe('createHistoryEntry', () => {
     it('creates a div element', () => {
